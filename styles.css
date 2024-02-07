@@ -138,13 +138,14 @@
   }
   
   .text-one:before {
-    content:"have a good day";
+    content:"Semangat !";
     top:30px;
     color: #d04e4e;
   }
   
   .text-one:after {
-    content:"for you!";
+    content:"untuk hari ininya :)";
+    font-size: 28px;
     top:60px;
   }
   
